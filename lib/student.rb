@@ -10,4 +10,8 @@ class Student < User
   def knowledge
     @knowledge
   end
+
+  def teach
+    
+  end
 end
